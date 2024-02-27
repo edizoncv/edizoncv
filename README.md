@@ -36,42 +36,46 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![R (Statistics)](https://img.shields.io/badge/R%20-WHITE%20?style=flat-square&logo=R&labelColor=rgb(67%2C114%2C143)&color=rgb(67%2C114%2C143)).
+  ![mysql (mysql)](https://img.shields.io/badge/mysql%20-WHITE%20?style=flat-square&logo=mysql&logoColor=white&labelColor=rgb(18%2C38%2C30)&color=rgb(18%2C38%2C30)).
 
 <br>   
     
-- **Front-End Development**:
+- **Visualisation tools**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![PowerBI](https://img.shields.io/badge/PowerBI%20-%23F7DF1E.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+   ![Tablue](https://img.shields.io/badge/Tablue%20-%231572B6.svg?style=for-the-badge&logo=tablue&logoColor=white)
+   ![Looker](https://img.shields.io/badge/Looker%20-%2370ED.svg?style=for-the-badge&logo=looker&logoColor=black)
 
 <br>
 
-- **Cloud Hosting**:
+- **Cloud**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![aws](https://img.shields.io/badge/AWS%20-%232370ED.svg?style=for-the-badge&logo=aws&logoColor=white)
+    ![azure](https://img.shields.io/badge/AZURE%20-%2300599C.svg?style=for-the-badge&logo=azure%2B%2B&logoColor=white)
+    ![gcp](https://img.shields.io/badge/GCP%20-%2314354C.svg?style=for-the-badge&logo=gcp&logoColor=white)
     
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+- **Libraries**:
 
 
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+<hr>
 </p>
 
 <br>
